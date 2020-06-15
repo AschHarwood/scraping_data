@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#stuff asch added
+.DS_Store
+config.py
